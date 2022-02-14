@@ -1,0 +1,2 @@
+# Percepcao-e-adaptacao-as-mudancas-climaticas-no-vale-do-cai-rs
+Este trabalho foi elaborado com o objetivo de avaliar a percepção e a adaptação dos produtores hortifrutigranjeiros do Vale do Caí - RS em relação às mudanças climáticas. Para cumprir esse objetivo foi conduzida uma survey 302 produtores familiares locais. Os dados obtidos foram tratados e analisados utilizando Análise de Correspondência Múltipla (ACM) e Regressão Logística. 
